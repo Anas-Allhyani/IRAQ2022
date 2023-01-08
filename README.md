@@ -3,6 +3,6 @@
 # Installation:
 
 ❤ pkg install python
-❤ git clone https://github.com/Anas-Allhyani/IRAQ2022.git
-❤ cd IRAQ2022
-❤ python IRAQ.py
+❤ git clone https://github.com/Anas-Allhyani/random-numbers.git
+❤ cd random-numbers
+❤ python B-I-P.py
